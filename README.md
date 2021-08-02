@@ -4,7 +4,7 @@
 
 - [«Покер планирования»](./processes/poker-planning.md)
 - [Ретроспектива](./processes/retro.md)
-- Стэндап TBD
+- [Стэндап](./processes/standup.md)
 
 ## Разработка
 
