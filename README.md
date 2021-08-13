@@ -2,9 +2,9 @@
 
 ## Процессы
 
+- [Стэндап](./processes/standup.md)
 - [«Покер планирования»](./processes/poker-planning.md)
 - [Ретроспектива](./processes/retro.md)
-- [Стэндап](./processes/standup.md)
 
 ## Разработка
 
