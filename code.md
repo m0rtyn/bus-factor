@@ -15,18 +15,9 @@
 + `const lang = () => ...` — не годится, имя не отражает сути. Непонятно, что именно с "lang" делает эта функция;
 + `const withLanguage = () => ...` — отлично, сразу понятно назначение функции (HOC в React обычно называются, начиная с with).
 
-## Следуйте кодстайлу
-
-+ JavaScript, NodeJS — [Solid Soda code-style](https://github.com/solid-soda/eslint-config).
-+ TypeScript, NodeJS — [Solid Soda code-style](https://github.com/solid-soda/tslint-config).
-+ PHP — [Symfony code-style с минимальным набором дополнительных правил](php.md).
-+ CSS — [Кастомный конфиг stylelint](css.md)
-
-А еще мы используем Prettier с [кастомным конфигом](pretty.md).
-
 ## Пишите тесты
 
-Каждый написанный модуль должен быть покрыт тестами. Каждый.
+Каждый написанный модуль стоит покрывать тестами. Каждый.
 
 ## Напишите README
 
