@@ -7,9 +7,9 @@
 + 🇷🇺 [Design Patterns](https://ru.wikipedia.org/wiki/Design_Patterns)
 + 🇷🇺 Clean Code
 + 🇷🇺 The Clean Coder
-+ The Pragmatic Programmer
-+ Code Complete
-+ Refactoring
++ 🇷🇺 The Pragmatic Programmer
++ 🇷🇺 Code Complete
++ 🇷🇺 Refactoring
 
 ## Архитектура ПО
 
